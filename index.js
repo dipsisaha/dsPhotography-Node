@@ -51,8 +51,7 @@ app.use(bodyParser.urlencoded({ extended: false,
     parameterLimit: 1000000,
 	limit: '50mb'}));
 
-app.use('/api', api)
+app.use('/api', api);
 
-http.createServer(function(req,res){
-//res.end('hello world');
-}).listen(3000);
+
+app.listen(3000, () =>	console.log("Server Started"));
