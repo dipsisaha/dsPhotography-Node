@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5d08d7ee99f7f609586d1db9"},"story_id":"1","title":"Title1","imageName":"image1.jpg","status":"Active","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d08d7ee99f7f609586d1dba"},"story_id":"1","title":"Title2","imageName":"image2.jpg","status":"Active","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d08d7ee99f7f609586d1dbb"},"story_id":"1","title":"Title3","imageName":"image3.jpg","status":"Active","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d08d7f099f7f609586d1dbf"},"story_id":"1","title":"Title1","imageName":"image1.jpg","status":"Active","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d08d7f099f7f609586d1dc0"},"story_id":"1","title":"Title2","imageName":"image2.jpg","status":"Active","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d08d7f099f7f609586d1dc1"},"story_id":"1","title":"Title3","imageName":"image3.jpg","status":"Active","__v":{"$numberInt":"0"}}
