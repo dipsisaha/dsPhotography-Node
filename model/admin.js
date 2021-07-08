@@ -14,6 +14,9 @@ const adminSchema = mongoose.Schema({
     },
     password:{
         type:String
+    },
+    websiteName :{
+        type:String
     }
 });
 

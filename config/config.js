@@ -1,8 +1,8 @@
 var Config = {
-    dbName : "DSphotography",
-    dbPassword :null,
-    dbUsername :null,
-    host :"localhost",
+    dbName : "hijibiji",
+    dbPassword :"hijibiji123",
+    dbUsername :"hijibiji",
+    host :"cluster0.i0ajl.mongodb.net",
     port:"27017"
 
 }

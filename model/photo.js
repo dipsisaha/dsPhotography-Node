@@ -1,12 +1,15 @@
 const mongoose = require('mongoose');
 const photoSchema = mongoose.Schema({
-    story_id:{
-        type:String
-    },
-    title:{
+    storyid:{
         type:String
     },
     imageName:{
+        type:String
+    },
+    midImageName:{
+        type:String
+    },
+    smallImageName:{
         type:String
     },
     status:{
